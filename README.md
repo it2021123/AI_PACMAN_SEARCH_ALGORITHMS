@@ -34,10 +34,9 @@ A Search*: An informed search algorithm that uses both path cost and a heuristic
 
 This file contains implementations of multi-agent search algorithms, where Pacman has to navigate the maze while considering the presence of ghosts (opponents). The algorithms implemented are:
 
-    Minimax Algorithm: A decision rule for minimizing the possible loss for a worst-case scenario.
+Minimax Algorithm: A decision rule for minimizing the possible loss for a worst-case scenario.
 
-
-python autograder.py -q q6
+     python autograder.py -q q6
 
 Alpha-Beta Pruning: An optimization technique for the minimax algorithm that reduces the number of nodes evaluated by the minimax algorithm in its search tree. 
 
