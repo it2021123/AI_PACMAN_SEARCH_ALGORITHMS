@@ -1,4 +1,6 @@
-Pacman Search Algorithms(run in python
+Pacman Search Algorithms(run in python  3.6)
+
+
 
 This repository contains implementations of various search algorithms applied to the game Pacman. The project is divided into three main files, each responsible for different aspects of the game and search strategies.
 Files and Implementations
